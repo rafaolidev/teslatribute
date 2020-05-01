@@ -1,7 +1,7 @@
 # Tesla Tribute Site
 site made in the B7Web Front-end Course.
 
-# Obejctive
+# Objective
 
 Make a Tribute site, using the technologies that we have learned on the course.
 
